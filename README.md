@@ -58,10 +58,3 @@ Running migrations will deploy contracts to your local Ethereum blockchain and i
 ### Run migrations
 
 ### Swarm
-
-## TODO
-
-- Prevent people from voting via the same wallet twice.
-- Accept an array of eligible voters when the contract is deployed.
-- Seal the vote count until voting is complete.
-- Add tests.
